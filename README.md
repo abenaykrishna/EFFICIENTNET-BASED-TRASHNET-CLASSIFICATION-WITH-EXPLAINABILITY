@@ -1,0 +1,2 @@
+# EFFICIENTNET-BASED-TRASHNET-CLASSIFICATION-WITH-EXPLAINABILITY
+Understanding the Model with Explainability Methods
